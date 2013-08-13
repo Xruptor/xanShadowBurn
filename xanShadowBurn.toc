@@ -1,0 +1,7 @@
+## Interface: 50200
+## Title: xanShadowBurn
+## Notes: Displays a blizzard power aura when Warlock Destruction Shadowburn is available
+## Author: Xruptor
+## Version: 1.0
+
+xanShadowBurn.lua
